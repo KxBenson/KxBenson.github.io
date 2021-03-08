@@ -28,9 +28,9 @@ twitter_username: KxBenson
 github_username:  KxBenson
 
 # Build settings
-theme: jekyll-theme-midnight
-plugins:
-  - jekyll-feed
+#theme: jekyll-theme-midnight
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
