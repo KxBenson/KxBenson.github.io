@@ -28,6 +28,7 @@ twitter_username: KxBenson
 github_username:  KxBenson
 
 # Build settings
+theme: minima
 plugins:
   - jekyll-feed
 
