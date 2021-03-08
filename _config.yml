@@ -28,6 +28,7 @@ twitter_username: KxBenson
 github_username:  KxBenson
 
 # Build settings
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
